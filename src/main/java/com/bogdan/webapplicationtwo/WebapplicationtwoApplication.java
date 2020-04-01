@@ -1,0 +1,13 @@
+package com.bogdan.webapplicationtwo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WebapplicationtwoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(WebapplicationtwoApplication.class, args);
+    }
+
+}
